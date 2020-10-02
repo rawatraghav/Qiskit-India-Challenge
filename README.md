@@ -16,4 +16,8 @@ To run files, clone the repo in your working directory:
 - [Day3 Question2](D3_Q2.ipynb) 
 - [Day4 Question1](D4_Q1.ipynb)
 - [Day4 Question2](D4_Q2.ipynb)
-- [Day5 Learning Notebook](Day-5%20Reading/ClassicalSVM.ipynb)
+- [Day5 Classical challenge Notebook](Day-5%20Reading/ClassicalSVM.ipynb)
+- [Day5 Variational Quantum Circuit Notebook](Day%206,7,8/VQC.ipynb)
+    - dataset included in folder as .zip file
+- [Final Challenge Task](Final%20Challenge%20Task/VQC_final_question_dim3_participant_view.ipynb)
+    - dataset included in folder as .zip file
