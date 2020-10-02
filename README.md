@@ -10,3 +10,6 @@ To run files, clone the repo in your working directory:
 ## Table of Contents
 
 - [Day2 Question1](Day_2_Q1.ipynb)
+- [Day2 Question2](Day2_Q2.ipynb)
+- [Day3 Question1](Day3 Q-1.ipynb)
+-  
