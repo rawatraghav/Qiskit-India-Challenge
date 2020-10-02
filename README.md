@@ -11,5 +11,9 @@ To run files, clone the repo in your working directory:
 
 - [Day2 Question1](Day_2_Q1.ipynb)
 - [Day2 Question2](Day2_Q2.ipynb)
-- [Day3 Question1](Day3 Q-1.ipynb)
--  
+
+- [Day3 Question1](Day3_Q-1.ipynb)
+- [Day3 Question2](D3_Q2.ipynb) 
+- [Day4 Question1](D4_Q1.ipynb)
+- [Day4 Question2](D4_Q2.ipynb)
+- [Day5 Learning Notebook](Day-5-Reading/ClassicalSVM.ipynb)
