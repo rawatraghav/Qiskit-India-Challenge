@@ -21,3 +21,4 @@ To run files, clone the repo in your working directory:
     - dataset included in folder as .zip file
 - [Final Challenge Task](Final%20Challenge%20Task/VQC_final_question_dim3_participant_view.ipynb)
     - dataset included in folder as .zip file
+    - there are numerous ways to solve the final challenge, where the aim was to get highest accuracy with minimum variational circuit cost. The notebook includes my answer having an accuracy of about 76.2%
